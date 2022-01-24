@@ -1,0 +1,30 @@
+{
+  "name": "19-pwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chase-risinger/food-festival.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chase-risinger/food-festival/issues"
+  },
+  "homepage": "https://github.com/chase-risinger/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.0"
+  }
+}
